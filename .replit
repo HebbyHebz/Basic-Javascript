@@ -1,4 +1,4 @@
-entrypoint = "multiplyRecursion.js"
+entrypoint = "index.js"
 
 [interpreter]
 command = [
