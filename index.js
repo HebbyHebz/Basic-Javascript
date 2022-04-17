@@ -1,8 +1,6 @@
-class Vegetable{
-  constructor(name){
-    this.name = name
-  }
-}
+"use strict";
+require('./a.js');
 
-const carrot = new Vegetable("carrot");
-console.log(carrot.name)
+v=uppercase('6')
+
+console.log(v);
